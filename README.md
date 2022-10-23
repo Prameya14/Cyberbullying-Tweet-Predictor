@@ -20,7 +20,7 @@ This is a Tweet Prediction System which would allow users to get the Category of
 I. Clone Project
 
 ```bash
-  git clone <>
+  git clone https://github.com/Prameya14/Cyberbullying-Tweet-Predictor.git
 ```
 
 II. Install Requirements
